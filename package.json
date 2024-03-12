@@ -1,0 +1,23 @@
+{
+  "name": "jsadvhw3njs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workingprofile044/jsadvhw3njs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workingprofile044/jsadvhw3njs/issues"
+  },
+  "homepage": "https://github.com/workingprofile044/jsadvhw3njs#readme",
+  "dependencies": {
+    "@workingprofile044/jsadvhw3": "github:workingprofile044/jsadvhw3"
+  }
+}
